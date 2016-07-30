@@ -8,3 +8,6 @@ Small PCB and 3D printed piece resembling one of Iron Man ARC reactor designs
 
 # Author
 All sources and CAD designs, made by doragasu.
+
+# Status
+This project is working perfect and considered finished.
